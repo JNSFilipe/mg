@@ -15,3 +15,7 @@ GSYMS
 GTAGS
 ID
 *~
+
+# Zig
+.zig-cache/
+zig-out/
